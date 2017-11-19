@@ -88,3 +88,4 @@ modules\mirrortimers.lua
 skins\blizzard\character.lua
 skins\blizzard\options-interface.lua
 skins\blizzard\options-sound.lua
+skins\blizzard\options-video.lua
