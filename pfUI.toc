@@ -87,3 +87,4 @@ modules\mirrortimers.lua
 # skins
 skins\blizzard\character.lua
 skins\blizzard\options-interface.lua
+skins\blizzard\options-sound.lua
